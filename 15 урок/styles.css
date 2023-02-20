@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(58, 133, 95, 0.822);
+}
+.text--bold{
+    font-size: 20px;
+    color: aqua;
+}
+
+.parent{
+    font-size: 25px;
+    color: yellow;
+}
+
+a[href="#blog"] {
+    font-size: 40px;
+    text-decoration: none;
+    color: rgb(99, 126, 184);
+}
