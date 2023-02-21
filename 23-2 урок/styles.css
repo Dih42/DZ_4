@@ -1,0 +1,16 @@
+
+
+.block{
+    margin: 100px;
+    box-shadow: 0 0 10px;
+    height: 80vh;
+    border-radius: 10px;
+    /* background:url(img/men.png) 50% 50% no-repeat, radial-gradient(rgb(154, 177, 73), rgb(45, 104, 74))   */
+    
+    
+    background-image: url(img/men.png),linear-gradient(rgb(106, 192, 171),rgb(206, 140, 140));;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
